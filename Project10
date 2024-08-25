@@ -21,7 +21,7 @@
    "outputs": [],
    "source": [
     "#reading the dataset\n",
-    "df=pd.read_csv('F:\\\\Unified Mentor Internship\\\\Heart Disease data\\\\Heart Disease data\\\\Heart Disease Data.csv')"
+    "df=pd.read_csv('F:\\\\Unified Mentor \\\\Heart Disease Data.csv')"
    ]
   },
   {
